@@ -1,0 +1,12 @@
+.bakgrund {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  padding: 10px;
+  margin-bottom: 20px;
+  width: 500px;
+}
+
+.image {
+  width: 100px;
+}

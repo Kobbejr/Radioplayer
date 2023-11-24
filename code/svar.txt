@@ -1,0 +1,21 @@
+
+SVAR PÅ FRÅGOR:
+
+
+1. Semantiska element i webbutveckling är viktiga enligt eftersom de ger mer meningsfull information om innehållet.
+Två exempel på semantiska HTML-element är <header> och <nav>. 
+Dessa förbättrar tillgängligheten genom att tillåta användare med olika funktionsnedsättningar, att förstå strukturen och syftet med webbsidan.
+
+2. Färgkontrast är avgörande för tillgänglighet inom webbdesign. Att följa riktlinjer för färgkontrast gynnar användare med synnedsättningar 
+genom att göra text mer läsbar. Enligt WCAG-standarderna rekommenderas ett kontrastförhållande på minst 4.5:1 för normal text
+och 3:1 för större text och grafiska element.
+
+3. Alternativtext (alt text) för bilder är viktigt för tillgängligheten. Det ger en beskrivande text för användare som inte kan se bilden 
+och är även nödvändigt för en "screen reader". Alt text för en bild av ett träd skulle exempelvis kunna vara:
+"Ett träd med gröna löv som står i soljuset".
+
+4. Landmarks spelar en viktig roll för att skapa tillgängligt webbinnehåll. De hjälper användare att navigera sig snabbare genom en hemsida. 
+Exempel på landmärken i HTML inkluderar <header>, <nav>, <main>, <section> och <footer>.
+
+5. Tydlig märkning av formulärelement är viktigt. Det underlättar för användare att förstå och fylla i formulär,
+samtidigt som det hjälper tilgängligheten av en "screen reader". 
